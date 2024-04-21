@@ -1,6 +1,6 @@
 # Hello React Native
 
-## Install instrucctions
+## Create project instrucctions with expo
 ```sh
 npx create-expo-app SayHi
 cd SayHi
